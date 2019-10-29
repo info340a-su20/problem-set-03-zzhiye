@@ -12,7 +12,7 @@ Instructions for achieving this appearance are detailed below. Note that you wil
 
     - As always, remember to specify your box-sizing (to be `border-box`) to make sure the measurements are correct!
 
-    - Start by creating a `<div>` to act as the "container" (with `display: flexbox`) to hold the Flexbox. This `<div>` should be a child of the `<main>` element and contain as children the three `<section>` elements (e.g., it should "wrap" them).
+    - Start by creating a `<div>` to act as the "container" (with `display: flex`) to hold the Flexbox. This `<div>` should be a child of the `<main>` element and contain as children the three `<section>` elements (e.g., it should "wrap" them).
 
     - Each `<section>` element should then be styled as a Flexbox item. The columns should be sized as follows:
 
