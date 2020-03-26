@@ -1,4 +1,4 @@
-# Problem B
+# Problem: Responsive Splash Page
 
 In this exercise, you'll practice using **media queries** to create responsive web pages.
 
